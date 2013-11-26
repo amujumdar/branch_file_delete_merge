@@ -1,0 +1,4 @@
+Test branching and merging
+- Identical change on a branch and on master
+  - Remove same file
+- Merge branch
